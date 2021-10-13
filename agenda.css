@@ -1,0 +1,86 @@
+body{
+    background-color:white;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: black;
+    padding: 20px ;
+    height: 10px;
+    margin: 1px;
+
+  }
+  .anniversaire {
+      color:red;
+      text-shadow: 4px 4px black;
+      background-color:rgb(145, 145, 160);
+  }
+  
+  .heures {
+      column-count: 1;
+      color:rgb(165, 134, 134) ;
+      background-color: blue;
+      color:palegreen;
+  }
+  
+  .mois{
+      color:rgb(9, 9, 148);
+      background-color: azure;
+      
+  }
+  .emoji{
+      padding: 20px
+  }
+
+  .jour{
+      color: rgb(26, 175, 88);
+  }
+  .important {
+      color: blue;
+      background-color: orchid;
+
+  }
+  .manger {
+      color:blue;
+      background-color: aqua;
+  }
+  .rdd{
+      color: blue;
+      background-color: azure;
+  }
+  input[type=heure] {
+    width: 20%;
+    background-color: #3CBC8D;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 50px 20px;
+
+
+  }
+  input[type=date] {
+      width: 20%;
+      padding: 20px 20px;
+    margin: 50px 20px;
+      background-color: #3CBC8D;
+      text-align: center;
+  }
+  input[type=message] {
+    background-color: #3CBC8D;
+    padding: 20px 20px;
+    margin: 50px 20px;
+    text-align: center;
+    text-align: center;
+    width: 20%;
+  }
+  .button {
+      background-color:#3CBC8D;
+      text-align: center;
+      width: 20%;
+      padding: 20px 20px;
+    margin: 50px 20px;
+  }
+
+    
+
+
+
